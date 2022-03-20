@@ -1361,3 +1361,8 @@ footer .credits a {
   box-shadow: 0 0 0 3px #0078ff;
   transition: all 500ms ease;
 }
+
+.text-center-format{
+  text-align: center;
+  
+}
