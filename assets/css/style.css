@@ -837,6 +837,11 @@ a:hover {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.work-box-cv {
+  margin-bottom: 3rem;
+}
+
+
 .work-box {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
@@ -1351,18 +1356,3 @@ footer .credits a {
   border: 2px solid #82909c;
 }
 
-.circle {
-  height: 110px;
-  width: 110px;
-  font-size: 1.2rem;
-  border-radius: 50%;
-  line-height: 1.6;
-  margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #0078ff;
-  transition: all 500ms ease;
-}
-
-.text-center-format{
-  text-align: center;
-  
-}
