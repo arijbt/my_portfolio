@@ -32,6 +32,15 @@ a:hover {
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
+.btn-social {
+  border-radius: 100%;
+  display: inline-flex;
+  width: 2.25rem;
+  height: 2.25rem;
+  font-size: 1.25rem;
+  justify-content: center;
+  align-items: center;
+}
 
 .p-r {
   position: relative;
